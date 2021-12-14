@@ -2,23 +2,23 @@
 en:
   activerecord:
     models:
-      answer: Answer
-      certificate: Certificate
-      certificate_template: Certificate Template
-      feature: Feature
-      goal: Goal
-      group: Group
-      integration: Integration
-      item: Lesson
-      option: Option
-      path: Course
-      payment: Payment
-      plan: Plan
-      question: Question
-      skill: Tag
-      tenant: Academy
-      theme: Theme
-      user: User
+      answer: 대답
+      certificate: 인증서
+      certificate_template: 인증서 템플릿
+      feature: 특징
+      goal: 목표
+      group: 그룹
+      integration: 통합
+      item: 레슨
+      option: 옵션
+      path: 강의
+      payment: 결제
+      plan: 계획
+      question: 질문
+      skill: 태그
+      tenant: 아카데미
+      theme: 테마
+      user: 사용자
     attributes:
       certificate:
         date_issued: Date issued
