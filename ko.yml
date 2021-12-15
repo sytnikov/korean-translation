@@ -105,75 +105,75 @@ en:
         last_viewed: "마지막으로 본 항목:"
       change_role:
         one_admin: "관리자가 한 명 이상 필요합니다."
-        admin_limit: "관리자 수가 한계에 도달했습니다. 관리 > 결제 페이지를 통해 관리자 수의 한계를 늘릴 수 있습니다."
-        not_valid: "This is not a valid role."
+        admin_limit: "관리자 수가 한계에 도달했습니다. 관리 > 결제 페이지에서 계획을 업그레이드하는 것을 고려해 보십시오."
+        not_valid: "이것은 유효한 기능이 아닙니다."
       helper:
-        active: "Active"
-        invitated: "Invitation Pending"
+        active: "활성"
+        invitated: "초대 보류 중"
     items:
-      completed: Completed
+      completed: 완료됨
       destroy:
-        destroyed: "Lesson was successfully deleted."
+        destroyed: "레슨이 성공적으로 삭제되었습니다."
     groups:
       index:
-        members: Members
-        member: Member
-        new: New group
-        edit: Edit group
-        modal_form_name: Name
-        modal_form_users_label: Add users
-        modal_form_users_placeholder: Select users
-        modal_title: Create a new group
+        members: 회원
+        member: 회원
+        new: 새 그룹
+        edit: 그룹 편집
+        modal_form_name: 이름
+        modal_form_users_label: 사용자 추가
+        modal_form_users_placeholder: 사용자 선택
+        modal_title: 새 그룹 만들기
       show:
         action:
-          remove: Remove from group
-        col_name: Name
-        modal_form_name_placeholder: Name
-        modal_form_users_label: Add users
-        modal_form_users_placeholder: Select users
-        modal_title: Update group
+          remove: 그룹에서 제거
+        col_name: 이름
+        modal_form_name_placeholder: 이름
+        modal_form_users_label: 사용자 추가
+        modal_form_users_placeholder: 사용자 선택
+        modal_title: 그룹 업데이트
       create:
-        created: "Group was successfully created."
+        created: "그룹이 성공적으로 생성되었습니다."
       update:
-        updated: "Group was successfully updated."
+        updated: "그룹이 성공적으로 업데이트되었습니다."
       destroy:
-        destroyed: "Group was successfully deleted."
+        destroyed: "그룹이 성공적으로 삭제되었습니다."
     certificate_templates:
       index:
-        issue_config: Issue Configuration
-        issued: Issued
-        manual: Manual
-        automatic: Automatic
-        template: Template
-        not_created: Not created yet
-        edit: Edit template
-        create: Create template
+        issue_config: 발급 설정
+        issued: 발급됨
+        manual: 수동
+        automatic: 자동
+        template: 템플릿
+        not_created: 아직 생성되지 않음
+        edit: 템플릿 편집
+        create: 템플릿 만들기
       update:
-        updated: "The certificate template was successfully updated."
+        updated: "인증서 템플릿이 성공적으로 업데이트되었습니다."
       edit:
-        subtitle_html: "Edit certificates for the course <strong>%{course}</strong>."
-        change_logo: "Change logo"
-        upload_logo: "Upload logo"
-        file_recommendations: "We recommend using a PNG file with transparency. Maximum size: 1200 x 600px."
-        change_signature: "Change signature"
-        upload_signature: "Upload signature"
-        automatic_hint: "If you set this as automatic, certificates will be issued after the learner reaches a minimum level to issue, which you can setup below."
+        subtitle_html: "<strong>%{course}</strong> 강의 인증서를 편집합니다."
+        change_logo: "로고 변경"
+        upload_logo: "로고 업로드"
+        file_recommendations: "투명한 PNG 파일을 사용하는 것이 좋습니다. 최대 크기: 1200 x 600px."
+        change_signature: "서명 변경"
+        upload_signature: "서명 업로드"
+        automatic_hint: "자동으로 설정하면 학습자가 발급받을 수 있는 최소 수준에 도달한 후 인증서가 발급되며, 아래에서 설정할 수 있습니다."
     layouts:
       application:
-        workspace: Back to Academy
-        marble_academy: "💎 Marble Academy"
-        help_center: "📚 Help Center"
-        facebook: "👍 Facebook Group"
-        feature_request: "👾 Feature request"
-        contact_support: "💬 Contact support"
+        workspace: 아카데미로 돌아가기
+        marble_academy: "💎 마블 아카데미"
+        help_center: "📚 지원 센터"
+        facebook: "👍 페이스북 그룹"
+        feature_request: "👾 기능 요청"
+        contact_support: "💬 지원 문의"
     questions:
       show:
         col:
-          attempts: Attempts
-          correct: Correct
-          name: Name
-        completed: Completed
-        title: Title
+          attempts: 시도
+          correct: 정확한
+          name: 이름
+        completed: 완료된
+        title: 제목
       destroy:
         destroyed: "Question was successfully deleted."
     plans:
