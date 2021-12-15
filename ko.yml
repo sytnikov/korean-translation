@@ -21,91 +21,91 @@ en:
       user: 사용자
     attributes:
       certificate:
-        date_issued: Date issued
-        status: Status
+        date_issued: 발행일자
+        status: 상태
       certificate_template:
-        course_description: Course description
-        brand_logo: Brand logo
-        signature: Signature
-        printed_name: "Printed name"
-        printed_position: "Printed position"
-        minimum_level: "Minimum level to issue"
-        automatically_issued: "Automatically issued"
+        course_description: 강좌 설명
+        brand_logo: 브랜드 로고
+        signature: 서명
+        printed_name: "정자로 된 이름"
+        printed_position: "인쇄된 위치"
+        minimum_level: "발행할 최소 레벨"
+        automatically_issued: "자동 발행"
       groups:
-        name: Name
+        name: 이름
       items:
-        attachment: Attachment
+        attachment: 첨부 파일
       path:
-        banner: Cover image
-        background_image: Background image
-        free: Free
-        subscription: Subscription
-        one-time: One-time
+        banner: 표지 이미지
+        background_image: 배경 이미지
+        free: 무료
+        subscription: 구독
+        one-time: 일회성
       tenants:
-        subdomain: Subdomain
-        password: Password
+        subdomain: 하위 도메인
+        password: 비밀번호
       themes:
-        brand_logo: Brand logo
-        background_image: Background image
-        course_background: Course background
+        brand_logo: 브랜드 로고
+        background_image: 배경 이미지
+        course_background: 강좌 배경
       user:
-        avatar: Avatar
+        avatar: 아바타
   admin:
     welcome:
       index:
-        total_views: Total Views
-        lesson_title: Lesson title
-        in_minutes: "(in minutes)"
+        total_views: 총 조회수
+        lesson_title: 강의 제목
+        in_minutes: "(몇 분 안에)"
     paths:
       certificates_tab:
-        completed: Completed Lessons
-        status: Certificates Status
-        issued: Issued
-        pending: Pending
-        automatic: Automatically
-        canceled: Canceled
-        pdf: View as PDF
-        cancel: Cancel
-        issue: Issue
-        no_certificate: There is no certificate template created yet.
-        create_template: Create a template
+        completed: 학습 완료
+        status: 인증서 상태
+        issued: 발행된
+        pending: 보류 중
+        automatic: 자동으로
+        canceled: 취소됨
+        pdf: PDF로 보기
+        cancel: 취소
+        issue: 발행
+        no_certificate: 아직 작성된 인증서 템플릿이 없습니다.
+        create_template: 템플릿 만들기
       users_tab:
-        completed: Completed Lessons
-        details: Details
+        completed: 학습 완료
+        details: 세부 사항
       edit_payment:
-        billing_mode: Billing mode
-        edit_payment: Edit payment
-        currency_hint: "You are using %{name} (%{code}) as your default currency."
-        change_currency: "Change currency"
+        billing_mode: 청구 모드
+        edit_payment: 결제 편집
+        currency_hint: "%{name} (%{code})를 기본 통화로 사용하고 있습니다."
+        change_currency: "통화 변경"
       update:
-        updated: "Course was successfully updated."
-        error: "Sorry, something went wrong when updating."
+        updated: "강의가 성공적으로 갱신되었습니다."
+        error: "죄송합니다. 갱신할 때 문제가 발생하였습니다."
       destroy:
-        destroyed: "Course was successfully destroyed."
+        destroyed: "강좌가 성공적으로 제거되었습니다."
       sales:
-        active_subscriber: "active subscriber"
-        active_subscribers: "active subscribers"
+        active_subscriber: "활성 구독자"
+        active_subscribers: "활성 구독자"
     users:
       index:
-        banner_button: Change access policy
-        banner_title: Want to allow users to sign up by themselves?
+        banner_button: 액세스 정책 변경
+        banner_title: 사용자가 직접 등록할 수 있도록 허용하시겠습니까?
         invite:
-          button: Invite User
-          email: Email address
-          name: Name
-          title: Invite new users
+          button: 사용자 초대
+          email: 이메일 주소
+          name: 이름
+          title: 새 사용자 초대
         sharelink:
-          button: Copy
-          title: Or share this link
-        expenditures: Expenditures
+          button: 복사
+          title: 또는 이 링크를 공유합니다.
+        expenditures: 지출
         lesson:
-          zero: Lesson
-          one: Lesson
-          other: Lessons
-        last_viewed: "Last viewed:"
+          zero: 레슨
+          one: 레슨
+          other: 레슨
+        last_viewed: "마지막으로 본 항목:"
       change_role:
-        one_admin: "You need at least one administrator."
-        admin_limit: "You've reached your limit of admins. Consider upgrading your plan at Admin > Billing."
+        one_admin: "관리자가 한 명 이상 필요합니다."
+        admin_limit: "관리자 수가 한계에 도달했습니다. 관리 > 결제 페이지를 통해 관리자 수의 한계를 늘릴 수 있습니다."
         not_valid: "This is not a valid role."
       helper:
         active: "Active"
