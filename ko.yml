@@ -207,14 +207,14 @@ en:
         topic13: 사용자 프로필
         topic14: 레슨 복제
         topic15: 강의 공동 작업자
-        manage_subscription: "Manage Subscription"
-        unlimited_academies: "Unlimited academies"
-        unlimited_active_courses: "Unlimited active courses"
-        active_courses: "active courses"
-        custom_plan_offer: "Didn't find the ideal plan? Contact us so that we can customize it for you."
-        expires_at: "Expires at %{date}"
-      payment_confirmed: "The payment was confirmed and you new plan is already available. That means you can start using all the features right away."
-      hope_you_enjoy: "We hope you enjoy your experience and that you can use Marble to leverage your business and engage your customers. Feel free to contact us for support, when you need."
+        manage_subscription: "구독 관리"
+        unlimited_academies: "무제한 아카데미"
+        unlimited_active_courses: "무제한 활성 강좌"
+        active_courses: "활성 강의"
+        custom_plan_offer: "이상적인 계획을 찾지 못했습니까? 저희가 맞춤 제작해 드릴 수 있도록 문의 주세요."
+        expires_at: "%{date}에 만료됨"
+      payment_confirmed: "결제가 확인되었고 새로운 계획은 이미 사용 가능합니다. 즉, 모든 기능을 바로 사용할 수 있습니다."
+      hope_you_enjoy: "저희는 여러분이 경험을 즐기고 여러분의 비즈니스 활용과 고객의 참여를 위해 마블(Marble)을 사용할 수 있기를 바랍니다. 필요할 때 언제든지 문의하여 지원을 요청해 주시기 바랍니다."
       lets_start: "Let's start!"
       error_restart: "You can restart the process to subscribe to the plan."
       error_customer_portal: "Sorry, we had a problem connecting your Stripe account. Please, contact our support"
