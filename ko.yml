@@ -298,50 +298,50 @@ en:
         updated: "아카데미가 성공적으로 업데이트되었습니다."
         new_currency: "새 기본 통화를 설정했습니다. 이제 판매 페이지로 이동하여 각 강좌의 가격과 청구 옵션을 설정할 수 있습니다."
       change_favicon:
-        updated: "Favicon successfully updated."
-        not_updated: "Favicon cannot be updated."
+        updated: "파비콘이 성공적으로 업데이트되었습니다."
+        not_updated: "파비콘을 업데이트할 수 없습니다."
       remove_favicon:
-        deleted: "Favicon deleted successfully."
+        deleted: "파비콘을 삭제했습니다."
     themes:
-      background_image: Background image
-      bg_instructions: "Max size: 3000 x 1000 px"
-      brand_instructions: "Max size: 500 x 175 px"
-      brand_logo: Brand logo
-      button_color: Buttons color
-      button_text_color: Buttons text color
-      colors: Colors
-      colors_subtitle: Please, choose the main colors of your academy.
-      course_background: Course background
-      course_background_image: Course background image
-      course_body_text_color: Course body text color
-      course_design: Course design
-      course_design_subtitle: Course design subtitle
+      background_image: 배경 이미지
+      bg_instructions: "최대 크기: 3000 x 1000 px"
+      brand_instructions: "최대 크기: 500 x 175 px"
+      brand_logo: 브랜드 로고
+      button_color: 버튼 색상
+      button_text_color: 버튼 텍스트 색상
+      colors: 색상
+      colors_subtitle: 아카데미의 주요 색상을 선택해 주세요.
+      course_background: 강좌 배경
+      course_background_image: 강좌 배경 이미지
+      course_body_text_color: 강좌 본문 텍스트 색상
+      course_design: 강좌 디자인
+      course_design_subtitle: 강좌 디자인 자막
       delete_image:
-        not_deleted: "Sorry, we couldn't delete this image."
-      go_to: Go to theme settings
-      images: Images
-      images_subtitle: Customize the images shown in your academy.
-      name: Theme name
-      navbar_color: Main navigation bar color
-      navbar_text_color: Main navigation bar text color
-      save: Save new theme
-      title: Theme settings
-      title_color: Title color on homepage
+        not_deleted: "좌송합니다. 이 미미지를 삭제할 수 없습니다."
+      go_to: 테마 설정으로 이동
+      images: 이미지
+      images_subtitle: 아카데미에 표시된 이미지를 사용자 지정합니다.
+      name: 테마 이름
+      navbar_color: 메인 내비게이션 바 색상
+      navbar_text_color: 메인 내비게이션 바 텍스트 생상
+      save: 새 테마 저장
+      title: 테마 설정
+      title_color: 홈페이지의 제목 색상
       create:
-        updated: "Theme was successfully updated."
+        updated: "테마가 성공적으로 업데이트되었습니다."
       destroy:
-        destroyed: "Theme was successfully destroyed."
+        destroyed: "테마가 성공적으로 제거되었습니다."
     certificates:
       create:
-        created: "The certificate was created."
-        error: "There was error when creating the certificate."
+        created: "인증서가 생성되었습니다."
+        error: "인증서를 만드는 동안 오류가 발생했습니다."
       view_pdf:
-        title: "Certificate of Completion"
-        was_awarded: "was awarded at %{date} to"
-        for_completing: "for completing the course"
+        title: "수료증"
+        was_awarded: "%{date}에 인증서 수상자"
+        for_completing: "강의를 이수하기 위해"
     tags:
       destroy:
-        destroyed: "Tag was successfully deleted."
+        destroyed: "태그가 성공적으로 삭제되었습니다."
     integrations:
       index:
         stripe_description: "Integrate your Stripe account to your academy and start selling your courses to new learners."
