@@ -337,14 +337,14 @@ en:
         error: "인증서를 만드는 동안 오류가 발생했습니다."
       view_pdf:
         title: "수료증"
-        was_awarded: "%{date}에 인증서 수상자"
+        was_awarded: "%{date}에 인증서 수상"
         for_completing: "강의를 이수하기 위해"
     tags:
       destroy:
         destroyed: "태그가 성공적으로 삭제되었습니다."
     integrations:
       index:
-        stripe_description: "Integrate your Stripe account to your academy and start selling your courses to new learners."
+        stripe_description: "Stripe 계정을 아카데미에 통합하고 새로운 학습자에게 강의를 판매하기 시작합니다."
         mailchimp_description: "Automatically create a new Mailchimp contact whenever someone registers to your academy."
         intercom_description: "Automatically create a new Intercom contact whenever someone registers to your academy."
         hubspot_description: "Automatically create a new Hubspot contact whenever someone registers to your academy."
