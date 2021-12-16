@@ -278,25 +278,25 @@ en:
               label2: 링크만 있으면 누구나 이 아카데미와 그 수업을 볼 수 있다.
           title: 액세스 정책 변경
         subtitle: 액세스 정책 변경
-        text: You can change the <strong>access policy</strong> for this academy, which is currently <strong>%{value}</strong>.
-        title: Danger Zone
+        text: 이 아카데미에 대한 <strong>액세스 정책</strong>을 변경할 수 있습니다. 이 정책은 현재 <strong>%{value}</strong> 입니다.
+        title: 위험 지대
         notification:
-          open: open
-          private: private
-          public: public
-          subtitle: Get notifications in Slack
+          open: 오픈
+          private: 비공개
+          public: 공개
+          subtitle: 슬랙(Slack)에서 알림 받기
           text:
-            When a course is published or an lesson added, MarbleBot will notify
-            you via Slack.
-          title: Notifications
+            과정이 게시되거나 수업이 추가되면 마블봇(MarbleBot)이 
+            슬랙을 통해 알려드립니다.
+          title: 알림
       settings_navigation:
-        brand: "Brand"
-        domain: "Domain"
-        language: "Language"
-        access_policy: "Access Policy"
+        brand: "브랜드"
+        domain: "도메인"
+        language: "언어"
+        access_policy: "액세스 정책"
       update:
-        updated: "The academy was successfully updated."
-        new_currency: "You've set a new default currency. Now, you can go to the Sales page to set prices and billing options for each course."
+        updated: "아카데미가 성공적으로 업데이트되었습니다."
+        new_currency: "새 기본 통화를 설정했습니다. 이제 판매 페이지로 이동하여 각 강좌의 가격과 청구 옵션을 설정할 수 있습니다."
       change_favicon:
         updated: "Favicon successfully updated."
         not_updated: "Favicon cannot be updated."
