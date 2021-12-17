@@ -358,38 +358,38 @@ en:
       purchase_confirmation: 구매확인서
       confirmation:
         title: 이제 새로운 여정이 시작됩니다!
-        payment_confirmed_html: The payment was confirmed and your new course is already available. That means you can <a href='%{link}'>start learning right away</a>.
-        learning_metrics_html: You can also <a href='%{link}'>keep up with your learning metrics</a> on your profile page.
-        lets_start: "Let's start!"
+        payment_confirmed_html: 결제가 확인되었고 새로운 강좌는 이미 이용 가능합니다. 즉, <a href='%{link}'>바로 학습을 시작</a>할 수 있습니다.
+        learning_metrics_html: 프로필 페이지에서 <a href='%{link}'>학습 메트릭스를 계속 진행</a> 할 수도 있습니다.
+        lets_start: "시작하겠습니다!"
       error:
-        title: Oops!
-        something_wrong: There was something wrong with your payment. Please, check if the information provided is correct.
-        restart: You can restart the process again in order to access the course.
-        go_to_payment: Go to payment
+        title: 이런!
+        something_wrong: 고객님의 결제에 문제가 있었습니다. 제공된 정보가 올바른지 확인 부탁드립니다.
+        restart: 강좌에 액세스하기 위해 프로세스를 다시 시작할 수 있습니다.
+        go_to_payment: 결제합니다.
     cancel_subscription:
-      canceled: "Your subscription was canceled."
-      error: "Something went wrong and we couldn't cancel your subscription."
-    purchase_confirmation: "Purchase confirmation"
+      canceled: "구독이 취소되었습니다."
+      error: "문제가 발생하여 구독을 취소할 수 없습니다."
+    purchase_confirmation: "구매확인서"
     create:
-      unable_to_proceed: "Unable to proceed. The academy is disconnected from the payment system. Please, contact support."
+      unable_to_proceed: "계속 진행할 수 없습니다. 아카데미와 결제 시스템과의 연결이 끊어졌습니다. 지원부에 문의하십시오."
   items:
-    update: Update Lesson
-    edit: Edit Lesson
-    delete: Delete Lesson
-    add: Add Lesson
+    update: 레슨 업데이트
+    edit: 레슨 편집
+    delete: 레슨 삭제
+    add: 레슨 추가
     create:
-      created: "Lesson was successfully created."
-    save: Save Lesson
-    add_question: Add Question
-    choose_file: Choose a file
-    item_code: Code
-    file_size: "(max. 10MB)"
-    enter_tag: Enter a Tag
-    uploaded: Currently Uploaded
-    nolink_text: Don't have a link? Upload a file
+      created: "레슨이 성공적으로 만들어졌습니다."
+    save: 레슨 저장
+    add_question: 질문 추가
+    choose_file: 파일 선택
+    item_code: 코드
+    file_size: "(최대. 10MB)"
+    enter_tag: 태그 입력
+    uploaded: 현재 업로드됨
+    nolink_text: 링크가 없습니까? 파일을 업로드하세요.
     edit_path_item_advanced:
-      choose_lesson: Choose a lesson type
-      website_description: A card for any link
+      choose_lesson: 강의 유형 선택
+      website_description: A card for any link 모든 링크에 대한 
       video_description: Immersive video integration
       pdf_description: Upload or link to a file
       text_description: Long form text with style
