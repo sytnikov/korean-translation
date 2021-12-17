@@ -345,19 +345,19 @@ en:
     integrations:
       index:
         stripe_description: "Stripe 계정을 아카데미에 통합하고 새로운 학습자에게 강의를 판매하기 시작합니다."
-        mailchimp_description: "Automatically create a new Mailchimp contact whenever someone registers to your academy."
-        intercom_description: "Automatically create a new Intercom contact whenever someone registers to your academy."
-        hubspot_description: "Automatically create a new Hubspot contact whenever someone registers to your academy."
+        mailchimp_description: "고객이 당신의 아카데미에 등록할 때마다 자동으로 새로운 Mailchimp 연락처를 만드세요."
+        intercom_description: "고객이 당신의 아카데미에 등록할 때마다 자동으로 새로운 Intercom 연락처를 만드세요."
+        hubspot_description: "고객이 당신의 아카데미에 등록할 때마다 자동으로 새로운 Hubspot 연락처를 만드세요."
   errors:
     messages:
       not_saved:
-        one: "1 error prohibited this %{resource} from being saved:"
-        other: "%{count} errors prohibited this %{resource} from being saved:"
+        one: "1개의 오류 때문에 이 %{resource}을(를) 저장할 수 없음:"
+        other: "%{count}개의 오류로 인해 이 %{resource}을(를) 저장할 수 없음:"
   payments:
     show:
-      purchase_confirmation: Purchase confirmation
+      purchase_confirmation: 구매확인서
       confirmation:
-        title: Your new journey starts now!
+        title: 이제 새로운 여정이 시작됩니다!
         payment_confirmed_html: The payment was confirmed and your new course is already available. That means you can <a href='%{link}'>start learning right away</a>.
         learning_metrics_html: You can also <a href='%{link}'>keep up with your learning metrics</a> on your profile page.
         lets_start: "Let's start!"
