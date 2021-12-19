@@ -389,20 +389,20 @@ en:
     nolink_text: 링크가 없습니까? 파일을 업로드하세요.
     edit_path_item_advanced:
       choose_lesson: 강의 유형 선택
-      website_description: A card for any link 모든 링크에 대한 
-      video_description: Immersive video integration
-      pdf_description: Upload or link to a file
-      text_description: Long form text with style
-      embed_description: Embed any content you like
-      quiz_description: Giver clear options
-      title_goes_here: "Title goes here"
-      description_goes_here: "Description goes here"
-      learn_more: "Learn more about how to create a course"
-      content: "Content"
-      not_saved: "%{error} prohibited this item from being saved:"
-      paste_or_type: "Paste or type a link"
-      learn: "Learn more"
-      pdf_link_html: "Add a <span class='font-weight-bold'>PDF</span> by link:"
+      website_description: 모든 링크를 위한 카드
+      video_description: 몰입형 비디오 통합
+      pdf_description: 파일 업로드 또는 링크
+      text_description: 스타일이 있는 긴 양식 텍스트
+      embed_description: 원하는 콘텐츠 삽입(Embed)
+      quiz_description: 명확한 옵션 제공
+      title_goes_here: "제목은 이곳에 들어갑니다."
+      description_goes_here: "설명은 이곳에 표시됩니다."
+      learn_more: "강의 작성 방법에 대해 자세히 알아보기"
+      content: "콘텐츠"
+      not_saved: "%{error}로 인하여 금지된 저장 항목:"
+      paste_or_type: "링크를 붙여 넣거나 입력하세요."
+      learn: "더 배우기"
+      pdf_link_html: "링크로 <span class='font-weight-bold'>PDF</span> 를 추가:"
       pdf_explanation_html: "PDFs can only be shown with links ending in <span class='font-italic'>'.pdf'</span>. For other PDFs please use the upload below."
       video_explanation_html: "Use videos from <span class='font-weight-bold'>YouTube</span>, <span class='font-weight-bold'>Vimeo</span>, <span class='font-weight-bold'>Wistia</span>, <span class='font-weight-bold'>Loom</span> and many other video hosting platforms."
       embed_content_html: "Embed content <span class='font-weight-bold'>by link</span>:"
