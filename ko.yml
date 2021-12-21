@@ -403,105 +403,105 @@ en:
       paste_or_type: "링크를 붙여 넣거나 입력하세요."
       learn: "더 배우기"
       pdf_link_html: "링크로 <span class='font-weight-bold'>PDF</span> 를 추가:"
-      pdf_explanation_html: "PDFs can only be shown with links ending in <span class='font-italic'>'.pdf'</span>. For other PDFs please use the upload below."
-      video_explanation_html: "Use videos from <span class='font-weight-bold'>YouTube</span>, <span class='font-weight-bold'>Vimeo</span>, <span class='font-weight-bold'>Wistia</span>, <span class='font-weight-bold'>Loom</span> and many other video hosting platforms."
-      embed_content_html: "Embed content <span class='font-weight-bold'>by link</span>:"
-      embed_explanation_html: "Enter a valid <span class='font-weight-bold'>iframe</span> or <span class='font-weight-bold'>embed code</span> from your favorite tools, e.g. Miro, Trello or Figma."
-      upload_pdf_html: "or <span class='font-weight-bold'>upload a PDF</span> file from your computer:"
-      about_questions: "about how to add your questions."
+      pdf_explanation_html: "PDF는 <span class='font-italic'>'.pdf'</span>로 끝나는 링크로만 표시할 수 있습니다. 다른 PDF는 아래 업로드를 이용해주세요."
+      video_explanation_html: "<span class='font-weight-bold'>YouTube</span>, <span class='font-weight-bold'>Vimeo</span>, <span class='font-weight-bold'>Wistia</span>, <span class='font-weight-bold'>Loom</span> 및 기타 많은 비디오 호스팅 플랫폼의 비디오를 사용합니다."
+      embed_content_html: "<span class='font-weight-bold'>링크별</span> 콘텐츠 포함(Embed):"
+      embed_explanation_html: "올바른 <span class='font-weight-bold'>iframe</span>을 입력하거나 즐겨찾는 도구(예: Miro, Tello 또는 Figma)의 <span class='font-weight-bold'>코드를 포함(embed)</span>하십시오."
+      upload_pdf_html: "또는 컴퓨터에서 <span class='font-weight-bold'>PDF 파일을 업로드</span>:"
+      about_questions: "질문을 추가하는 방법에 대해 설명합니다."
     index:
-      all: All
-      reset: Reset
-      tag: Select a tag
-      create: "Add new lesson"
+      all: 모두
+      reset: 재설정
+      tag: 태그 선택
+      create: "새 레슨 추가"
     myitem:
-      answer: View Answer
-      back: "Back to:"
-      complete: Complete
-      completed: Completed
-      contents: Lessons
-      feedback: How was it?
-      feedback_text: You just completed
-      link: Visit link
-      mark_finished: Mark Finished
-      next: Next up
-      next_lesson: Continue to Next Lesson
-      start_next_lesson: Start Next Lesson
-      to_path: Return to course
+      answer: 답변 보기
+      back: "돌아가기:"
+      complete: 완료
+      completed: 완료된
+      contents: 레슨
+      feedback: 그거 어땠어?
+      feedback_text: 방금 완료했습니다.
+      link: 링크 방문
+      mark_finished: 완료 표시
+      next: 다음
+      next_lesson: 다음 레슨 계속하기
+      start_next_lesson: 다음 레슨 시작
+      to_path: 강의로 돌아가기
     new:
-      title: New Lesson
+      title: 새로운 레슨
     new_path_item:
-      add_existing_content: Add existing lesson
-      add_items_text: Find lesson
-      add_items_title: Choose lessons to add
-      add_new_content: Add new lesson
-      add_question: Add question
-      question_text: You can add questions after creating the lesson.
+      add_existing_content: 기존 레슨 추가
+      add_items_text: 레슨 찾기
+      add_items_title: 추가할 레슨 선택
+      add_new_content: 새 레슨 추가
+      add_question: 질문 추가
+      question_text: 레슨을 작성한 후 질문을 추가할 수 있습니다.
     show:
-      link: Visit link
+      link: 링크 방문
     myitem_show:
-      needs_sign_in: "You need to sign in or sign up before continuing."
-      not_enrolled: "Not enrolled in this path yet."
+      needs_sign_in: "계속하기 전에 로그인하거나 회원가입을 하셔야 합니다."
+      not_enrolled: "이 경로에 아직 등록되지 않았습니다."
     create_advanced:
-      updated: "Lesson was successfully updated."
+      updated: "레슨이 성공적으로 업데이트되었습니다."
     _configuration_navbar:
-      all_courses: "All Courses"
-      publish: "Publish"
+      all_courses: "모든 강좌"
+      publish: "게시"
   layouts:
     _navbar:
-      account_question: Have an account?
-      admin_settings: Admin Settings
-      create_path: Create a course
-      design: Design
-      invite_users: Invite Users
-      my_profile: My profile
-      my_settings: My settings
-      support: Support
-      templates: Templates
-      upgrade_plan: "Upgrade Plan!"
+      account_question: 계정이 있으신가요?
+      admin_settings: 관리 설정
+      create_path: 강의 작성
+      design: 디자인
+      invite_users: 사용자 초대
+      my_profile: 내 프로필
+      my_settings: 내 설정
+      support: 지원
+      templates: 템플릿
+      upgrade_plan: "업그레이드 계획!"
     _navbar_tenants:
-      account_question: Have an account?
+      account_question: 계정이 있으신가요?
   notification_mailer:
     new_path_notification:
-      email: Email
-      sign_in: Sign In
-      workspace_name: Academy name
-      workspace_url: Academy URL
-      subject: "[Marble] Notifications from %{tenant}"
+      email: 이메일
+      sign_in: 로그인
+      workspace_name: 아카데미 이름
+      workspace_url: 아카데미 URL
+      subject: "[Marble] %{tenant}의 알림"
   paths:
     shared:
-      choose_file: Choose a file
-      file_size: "(max. 10MB)"
-      item_tags_text: Enter a tag
-      nolink_text: Don't have a link? Upload a file
-      enter_url: Enter a URL
-      enter_emails: Enter emails here
-      start_date: Start date
-      end_date: End date
-      draft: Draft
-      publish: Publish
-      previous: Previous
-      start: Start
-      resume: Resume
-      no_notifications: No notifications
-      notifications: Notifications
-      now_button: Now
-      privacy: Privacy
-      anyone_with_link: Anyone with link
-      anyone_with_link_text_2: Anyone on the internet can view this course.
-      restricted: Restricted
-      restricted_text: Only learners assigned can open with this course.
-      privacy_text: Set the privacy of this course.
-      public_text: Anyone in the academy can view this course.
-      available: Available
-      expired: Expired
-      edit_path: Edit Course
-      subscribe: Subscribe
-      subscribe_for: Subscribe for
-      buy_course: Buy
-      buy_for: Buy for
+      choose_file: 파일 선택
+      file_size: "(최대 10MB)"
+      item_tags_text: 태그 입력
+      nolink_text: 링크가 없나요? 파일을 업로드하세요.
+      enter_url: URL 입력
+      enter_emails: 이메일을 여기에 입력
+      start_date: 시작일자
+      end_date: 마감일
+      draft: 임시보관함
+      publish: 게시
+      previous: 이전
+      start: 시작
+      resume: 다시 시작
+      no_notifications: 알림 없음
+      notifications: 알림
+      now_button: 지금
+      privacy: 비공개
+      anyone_with_link: 링크가 있는 모든 사용자
+      anyone_with_link_text_2: 인터넷 상의 모든 사람이 이 강의를 볼 수 있습니다.
+      restricted: 제한됨
+      restricted_text: 지정된 학습자만 이 강좌를 열 수 있습니다.
+      privacy_text: 이 강좌를 비공개 설정합니다.
+      public_text: 이 강좌는 아카데미에 있는 모든 사람이 볼 수 있습니다.
+      available: 사용 가능
+      expired: 만료됨
+      edit_path: 강좌 편집
+      subscribe: 구독
+      subscribe_for: 구독하기
+      buy_course: 구입
+      buy_for: 구입하기
     show_settings:
-      delete_image: Delete image
+      delete_image: 이미지 삭제
       restore_image: Restore default
     edit_cover_image_modal:
       restore: Restore default
