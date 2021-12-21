@@ -502,9 +502,9 @@ en:
       buy_for: 구입하기
     show_settings:
       delete_image: 이미지 삭제
-      restore_image: Restore default
+      restore_image: 기본값 복원
     edit_cover_image_modal:
-      restore: Restore default
+      restore: 기본값 복원
       label:
         banner: Cover image
         banner_instructions: "Max size: 3000 x 1500 px"
