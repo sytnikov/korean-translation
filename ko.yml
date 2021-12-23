@@ -572,32 +572,32 @@ en:
       noend: 끝없는
       notifications_text: 학습자에게 본 강좌에 대한 알림이 전송됩니다.
       only_assigned: 할당된 구성원만
-      path_collaboration: Course collaboration
-      path_collaboration_text: Allow learners to add lessons to this course.
-      person_space: persons in your academy.
-      schedule_path: Schedule a course
-      schedule_path_text_1: Courses are generally always available to your academy.
+      path_collaboration: 강좌 상호협력
+      path_collaboration_text: 학습자가 본 코스에 레슨을 추가할 수 있습니다.
+      person_space: 아카데미에 있는 사람들.
+      schedule_path: 강의 스케줄 설정
+      schedule_path_text_1: 아카데미에서 강의는 일반적으로 항상 이용할 수 있습니다.
       schedule_path_text_2:
-        With this setting, you can schedule courses to be available
-        only for a certain period of time.
-      sending_notification: You will be sending a notification to
-      title_1: Add lesson
-      title_2: Group course settings
-      needs_author: "You have to be the author to edit this path."
-      needs_author_preview: "You have to be the author to preview this path."
+        이 설정으로 특정 기간 동안만 강좌를 이용할 수 있도록 
+        예약할 수 있습니다.
+      sending_notification: 다음 사용자에게 알림을 보냅니다.
+      title_1: 레슨 추가
+      title_2: 그룹 강의 설정
+      needs_author: "작성자만이 이 경로를 편집할 수 있습니다."
+      needs_author_preview: "작성자만이 이 경로를 미리 볼 수 있습니다."
     index:
-      assigned: Assigned to me
+      assigned: 나에게 할당됨
     review:
-      all_learners: All learners
-      assign_users: Assign users
+      all_learners: 모든 학습자
+      assign_users: 사용자 할당
       assign_users_text:
-        You can assign individual users who will be able to see the
-        course and are notified about the course.
-      change_timezone: Change your time zone here
-      currently_in: You are currently in
-      find_learners: Find learners
-      form_title: The form contains
-      notifications_text: Your learners will receive a notification about this course.
+        강좌를 볼 수 있고 강좌에 대한 통지를 받을 개별 사용자를 
+        지정할 수 있습니다.
+      change_timezone: 여기서 표준시 변경
+      currently_in: 현재 ...에 있습니다.
+      find_learners: 학습자 찾기
+      form_title: 양식은 다음을 포함합니다.
+      notifications_text: 학습자에게 본 강좌에 대한 알림이 전송됩니다.
       only_assigned: Only assigned members
       open-ended: Open-ended
       person_space: Persons
