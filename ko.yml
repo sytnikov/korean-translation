@@ -506,72 +506,72 @@ en:
     edit_cover_image_modal:
       restore: 기본값 복원
       label:
-        banner: Cover image
-        banner_instructions: "Max size: 3000 x 1500 px"
-      title: Change course cover image
+        banner: 표지 이미지
+        banner_instructions: "최대 크기: 3000 x 1500 px"
+      title: 강좌 표지 이미지 변경
     _edit_path_modal:
       label:
-        image: Course background image
-        image_instructions: "Max size: 3500 x 1100 px"
-        text_color: Course title color
+        image: 강좌 배경 이미지
+        image_instructions: "최대 크기: 3500 x 1100 px"
+        text_color: 강좌 제목 색상
     _existing_items_modal:
-      select_items: Select lessons
-      title: Add Existing Lessons
+      select_items: 레슨 선택
+      title: 기존 레슨 추가
     _modal_add_content:
-      add_existing_content: Add existing lesson
-      add_new_content: Add new lesson
-      choose_items: Choose lessons to add
-      find_content: Find lesson
+      add_existing_content: 기존 레슨 추가
+      add_new_content: 새로운 레슨 추가
+      choose_items: 추가할 레슨 선택
+      find_content: 레슨 찾기
     _modal_add_question:
-      add_option: Add option
-      ask_question: Ask a question...
-      title: Multiple Choice Question
+      add_option: 옵션 추가
+      ask_question: 질문하세요...
+      title: 객관식 질문
     _modal_edit_item:
-      title: Edit lesson
+      title: 레슨 편집
     _modal_edit_question:
-      add_option: Add option
-      title: Edit question
+      add_option: 옵션 추가
+      title: 질문 편집
     _modal_path_settings:
-      # Part of the strings from this page are linked to the paths/edit
-      assign_groups: Assign groups
-      assign_groups_text: You can also assign groups of learners previously created in the admin environment.
-      currently_in: You are currently in %{timezone} time
-      design_description: Design
-      design_title: Change the layout of your learner mode
-      find_learners: Find learners
-      find_groups: Find groups
-      only_assigned: Only assigned members
-      path_collaboration: Course collaboration
-      path_collaboration_text: Allow learners to add lessons to this course.
-      person_space: persons in your academy.
-        only for a certain period of time.
+      # 이 페이지의 문자열(strings) 일부가 경로/편집에 연결되어 있습니다.
+      assign_groups: 그룹 할당
+      assign_groups_text: 또한 관리 환경에서 이전에 만든 학습자 그룹을 할당할 수도 있습니다.
+      currently_in: 현재 %{timezone} 시간에 있습니다.
+      design_description: 디자인
+      design_title: 학습자 모드 레이아웃 변경
+      find_learners: 학습자 찾기
+      find_groups: 그룹 찾기
+      only_assigned: 할당된 구성원만
+      path_collaboration: 강좌 상호협력
+      path_collaboration_text: 학습자가 본 강좌에 레슨을 추가할 수 있습니다.
+      person_space: 일정 기간 동안만 
+      나의 아카데미에 있는 사람들.
     _new_item_modal:
-      title: Add new lesson
+      title: 새로운 레슨 추가
     _path:
-      change_cover: Change Cover
-      edit_path: Edit Course
+      change_cover: 표지 변경
+      edit_path: 강좌 편집
       items:
-        one: "%{count} Lesson"
-        other: "%{count} Lessons"
-      view_path: View Course
+        one: "%{count} 레슨"
+        other: "%{count} 레슨"
+      view_path: 강좌 보기
     _paths_list:
-      create_first_path: Create your first course
-      no_paths: There are no courses here yet.
+      create_first_path: 첫 번째 강좌 만들기
+      no_paths: 여기는 아직 강좌가 없습니다.
     edit:
-      add_content: Add lesson
-      all_learners: All learners
-      assign_learners: Assign learners
+      add_content: 레슨 추가
+      all_learners: 모든 학습자
+      assign_learners: 학습자 할당
       assign_learners_text:
-        You can assign individual learners who will be able to
-        see the course and are notified about the course.
-      change_name: Change Name
-      change_timezone: Change your time zone here
-      currently_in: You are currently in
-      form_title: The form contains
-      group_path_title: Group course settings
-      noend: No end
-      notifications_text: Your learners will receive a notification about this course.
-      only_assigned: Only assigned members
+        강좌를 볼 수 있고 강좌에 대한 통지를 받을 
+        개별 학습자를 지정할 수 있습니다.
+      change_name: 이름 변경
+      change_timezone: 여기서 표준시 변경
+      currently_in: 현재 ...에 있습니다.
+      form_title: 양식은 다음을 포함합니다.
+      group_path_title: 그룹 강좌 설정
+      noend: 끝없는
+      notifications_text: 학습자에게 본 강좌에 대한 알림이 전송됩니다.
+      only_assigned: 할당된 구성원만
       path_collaboration: Course collaboration
       path_collaboration_text: Allow learners to add lessons to this course.
       person_space: persons in your academy.
