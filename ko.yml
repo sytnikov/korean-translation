@@ -619,85 +619,85 @@ en:
       invitations_sent: 보낸 초대장
       invite: 초대
       invite_learners: 학습자 초대
-      invite_learners_text: The learners will be invited and assigned to this course.
-      learners: learners.
-      no_items: There are no lessons yet.
-      path_published: Course was successfully published.
-      send_invitations: Send invitations
-      not_published: "This course is not published yet."
+      invite_learners_text: 학습자를 초대하여 본 강좌에 배정합니다.
+      learners: 학습자.
+      no_items: 아직 강좌가 없습니다.
+      path_published: 강좌를 성공적으로 게시했습니다.
+      send_invitations: 초대장 보내기
+      not_published: "이 강좌는 아직 게시되지 않았습니다."
     show_share:
       sharelink:
-        button: Copy
-        title: Share this link
+        button: 복사
+        title: 이 링크를 공유
     templates:
-      create_template: Create from template
-      title: Templates
-      view_original: View original course
+      create_template: 템플릿에서 작성
+      title: 템플릿
+      view_original: 원본 강좌 보기
     create_from_template:
-      created: "Course was successfully created from template."
+      created: "강좌가 템플릿에서 성공적으로 작성되었습니다."
     restore_default_image:
-      not_deleted: "We couldn't delete the background image."
+      not_deleted: "배경 이미지를 삭제하지 못했습니다."
     publish:
-      published: "Course was successfully published."
-      limit: "You've reached the limit of your plan. Consider upgrading your account at Admin > Billing."
+      published: "강좌가 성공적으로 게시되었습니다."
+      limit: "당신의 계획이 한계에 도달했습니다. 관리자 > 청구에서 계정을 업그레이드하는 것을 고려해 보십시오."
     update:
-      updated: "Course was successfully updated."
-      settings_changed: "Course settings were successfully changed."
+      updated: "강좌가 성공적으로 갱신되었습니다."
+      settings_changed: "강좌 설정이 성공적으로 변경되었습니다."
     add_existing_items:
-      added: "Item was successfully added."
+      added: "항목이 성공적으로 추가되었습니다."
     remove_item:
-      removed: "Lesson was successfully removed from course."
-      not_removed: "Course must contain at least one lesson."
+      removed: "레슨이 강좌에서 성공적으로 제거되었습니다."
+      not_removed: "강좌에는 적어도 한 가지 레슨이 있어야 합니다."
     update_cover:
-      error: "There was an error with the updating the cover."
-    invite_user: "Learner was successfully invited!"
+      error: "표지를 업데이트하는 동안 오류가 발생했습니다."
+    invite_user: "학습자가 성공적으로 초대되었습니다!"
     validations:
-      limit_mb: "is larger than 5MB"
+      limit_mb: "5MB보다 큽니다."
   questions:
     shared:
-      correct: Correct answer!
-      incorrect: Incorrect!
-      correct_text: "The correct answer is option:"
-      multiple: Multiple choice question
-      submit: Submit
-      answer: Check for correct answer
-      created: "Question was successfully created."
-      deleted: "Question was successfully deleted."
+      correct: 정답입니다!
+      incorrect: 틀렸습니다!
+      correct_text: "정답 선택지:"
+      multiple: 객관식 문제
+      submit: 제출하기
+      answer: 정답을 확인하십시오.
+      created: "질문이 성공적으로 작성되었습니다."
+      deleted: "질문이 성공적으로 삭제되었습니다."
     _option_fields:
-      option: Option
-      answer: Check answer
+      option: 선택지
+      answer: 답변 확인
     _question_form:
-      add_option: Add option
-      ask_question: Ask a question...
-      save_options: Save options
+      add_option: 선택지 추가
+      ask_question: 질문하세요...
+      save_options: 선택지 저장
     _view_question:
-      title: Quiz Question
+      title: 퀴즈 질문
     modal_failure:
-      try_again: You can try again!
+      try_again: 다시 해보세요!
   profiles:
     shared:
-      email: Enter an email address
-      locale: Language
-      name: Enter your name
-      position: Enter your position
+      email: 이메일 주소 입력
+      locale: 언어
+      name: 이름 입력
+      position: 직위 입력
     _profile_navigation:
-      overview: Overview
-    updated: "User was successfully updated."
+      overview: 개요
+    updated: "사용자가 성공적으로 업데이트되었습니다."
   users:
     shared:
-      password: Password
-      new_password: New Password
-      confirm_new_password: Confirm New Password
-      confirm_password: Confirm Password
-      enter_name: Enter your name
-      enter_password: Enter your password
-      password_confirmation: Enter the password again
-      password_reset: Password reset
-      enter_email: Enter your e-mail address
-      remember: Remember me
-      password_text: Your password should be at least 6 characters long (and contain numbers and special characters for additional security)
+      password: 비밀번호
+      new_password: 새 비밀번호
+      confirm_new_password: 새 비밀번호 확인
+      confirm_password: 비밀번호 확인
+      enter_name: 이름 입력
+      enter_password: 비밀번호 입력
+      password_confirmation: 비밀번호 다시 입력
+      password_reset: 비밀번호 재설정
+      enter_email: 이메일 주소 입력
+      remember: 로그인 기억하기
+      password_text: 비밀번호는 최소 6자 이상이어야 합니다.(추가 보안을 위해 숫자 및 특수 문자를 포함해야 합니다.)
       _links:
-        forgot: Forgot your password?
+        forgot: 비밀번호를 잊으셨습니까?
     profiles:
       certificates:
         no_certificate: You don't have any issued certificate yet.
