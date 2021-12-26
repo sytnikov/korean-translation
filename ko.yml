@@ -700,40 +700,40 @@ en:
         forgot: 비밀번호를 잊으셨습니까?
     profiles:
       certificates:
-        no_certificate: You don't have any issued certificate yet.
-        date_issue: Date of issue
-        view_pdf: View as PDF
+        no_certificate: 아직 발급된 인증서가 없습니다.
+        date_issue: 발행일자
+        view_pdf: PDF로 보기
       items:
-        no_lessons: You don't have lessons available yet.
+        no_lessons: 아직 수강할 수 있는 레슨이 없습니다.
       paths:
-        no_courses: You don't have courses available yet.
+        no_courses: 아직 수강할 수 있는 강좌가 없습니다.
       billing:
-        no_billing: There isn't any order or payment yet.
+        no_billing: 아직 주문이나 결제가 없습니다.
       show:
-        overview: Overview
-        progress: Learn Progress
-        stats: Personal Statistics
+        overview: 개요
+        progress: 학습 진행 상황
+        stats: 개인 통계
     invitations:
       edit:
-        consent_text_html: By continuing, you're agreeing to our %{terms}.
-        submit_button: Save my password
+        consent_text_html: 계속 진행하면 %{terms}에 동의하게 됩니다.
+        submit_button: 내 비밀번호 저장
         subtitle_html:
-          You'll use your email address (<strong>%{email}</strong>) and
-          a password to sign in to your academy on Marble.
-        title: Join %{tenant}
+          이메일 주소(<strong>%{email}</strong>)와 비밀번호를 사용하여 
+          마블(Marble)의 아카데미에 로그인 합니다.
+        title: %{tenant}에 등록
     mailer:
       invitation_instructions:
         body_html:
-          has invited you to join the academy <strong>%{tenant}</strong>. Join
-          now to start learning!
-        cta: Join Now
-        title: Join %{tenant} on Marble
-      reset_password_instructions:
+          <strong>%{tenant}</strong>님이 당신을 아카데미에 초대했습니다.
+          지금 가입하여 학습을 시작하세요.
+        cta: 지금 가입
+        title: 마블(Marble)의 %{tenant}에 가입
+        reset_password_instructions:
         body:
-          "You told us you forgot your password. If you really did, click here
-          to choose a new one:"
-        cta: Choose a New Password
-        hint: "“Choose a New Password” button not working?"
+          "비밀번호를 잊어버렸다고 하셨죠. 실제로 그러한 경우 여기를 클릭하여 
+          새로운 것을 선택:"
+        cta: 새 비밀번호 선택
+        hint: "“새 비밀번호 선택” 버튼이 작동하지 않습니까?"
         hint2: "Just copy and paste this link in your browser:"
         no_reset:
           If you didn't mean to reset your password, then you can just ignore
