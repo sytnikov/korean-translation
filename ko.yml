@@ -736,76 +736,76 @@ en:
         hint: "“새 비밀번호 선택” 버튼이 작동하지 않습니까?"
         hint2: "브라우저에 이 링크를 복사하여 붙여넣기만 하면 됩니다."
         no_reset:
-          If you didn't mean to reset your password, then you can just ignore
-          this email; your password will not change.
-        title: Reset your password
+          비밀번호를 재설정하려는 의도가 아니라면 이 이메일을 무시할 수 있습니다.
+          비밀번호는 변경되지 않습니다.
+        title: 비밀번호 재설정
     passwords:
       edit:
-        submit_button: Change my password
+        submit_button: 내 비밀번호 변경
         subtitle_html:
-          Enter your new password for your Marble account to sign in
-          to <strong>%{tenant}</strong>.
+          마블(Marble) 계정에 대한 새 암호를 입력하여
+          <strong>%{tenant}</strong>에 로그인하십시오.
       new:
-        reset_link: Get Reset Link
+        reset_link: 재설정 링크 가져오기
         subtitle_html:
-          To reset your password, enter the email address you use to
-          sign in to <strong>%{tenant}</strong>.
+          비밀번호를 재설정하려면 <strong>%{tenant}</strong>에 로그인할 수 있는
+          이메일 주소를 입력하십시오.
     registrations:
       new:
-        terms_button: Terms of Service
-        terms_html: By continuing, you're agreeing to our %{link}.
-        title: Sign up to %{tenant}
+        terms_button: 서비스 이용약관
+        terms_html: 계속 진행하면 %{link}에 동의하는 것입니다..
+        title: %{tenant}에 등록하기
     sessions:
       new:
-        title: Sign in to %{tenant}
+        title: %{tenant}에 로그인
     validations:
-      limit_mb: "is larger than 5MB"
+      limit_mb: "5MB보다 큽니다."
   welcome:
     _modal_new_path:
       label:
-        items: Select lesson
+        items: 레슨선택
       placeholder:
-        select_items: Select lessons
-      title: Create a new course
+        select_items: 레슨선택
+      title: 새 강좌 만들기
     home:
-      my_paths: My Courses
-      other_paths: Other Courses
-      welcome: Welcome to %{tenant}'s Academy
+      my_paths: 내 강좌
+      other_paths: 다른 강좌
+      welcome: %{tenant}의 아카데미에 오신 것을 환영합니다.
     signin:
-      continue: Continue
-      label: Enter your Academy URL
-      placeholder: your-team-url
-      title: Sign in to your Academy
-    create: "Welcome to your new space! Please, sign in to start using it."
+      continue: 계속하다
+      label: 아카데미 URL을 입력하십시오
+      placeholder: 당신-팀-URL
+      title: 아카데미에 로그인 합니다
+    create: "새로운 공간에 오신 것을 환영합니다! 로그인하여 이용하시길 바랍니다."
     find_team:
-      not_found: "Academy not found."
-      enter_name: "Please Enter the Space Name."
+      not_found: "아카데미를 찾을 수 없습니다."
+      enter_name: "공간의 이름을 입력하십시오."
   global:
-    back: Back
-    cancel: Cancel
-    close: Close
-    delete: Delete
-    destroy: Destroy
-    edit: Edit
-    new: New
-    remove: Remove
-    create: Create
-    add: Add
-    share: Share
-    save: Save
-    search: Search
-    save_changes: Save changes
-    sign_in: Sign in
-    sign_up: Sign up
-    sign_out: Sign out
-    sure: Are you sure?
-    active: Active
-    inactive: Inactive
-    update: Update
-    save_pdf: Upload and save PDF file
-    admin: Admin
-    name: Name
-    title: Title
+    back: 뒤로
+    cancel: 취소
+    close: 닫기
+    delete: 삭제
+    destroy: 완전삭제
+    edit: 편집
+    new: 새로 만들기
+    remove: 제거
+    create: 만들다
+    add: 추가
+    share: 공유
+    save: 저장
+    search: 검색
+    save_changes: 변경사항 저장
+    sign_in: 로그인
+    sign_up: 등록하기
+    sign_out: 로그아웃
+    sure: 확실합니까?
+    active: 활성
+    inactive: 비활성
+    update: 업데이트
+    save_pdf: PDF 파일 업로드 및 저장
+    admin: 관리자
+    name: 이름
+    title: 제목
     description: Description
     summary: Summary
     url: URL
